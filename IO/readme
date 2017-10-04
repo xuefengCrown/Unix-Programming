@@ -1,0 +1,10 @@
+1 apue.h
+read write
+
+2 标准IO
+<stdio.h>
+为不带缓冲的 IO 函数提供带缓冲的接口
+fgets 读取 一个完整的行
+printf
+getc
+putc
