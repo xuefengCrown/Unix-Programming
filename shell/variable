@@ -1,0 +1,15 @@
+# shell 变量： 局部和全局
+赋值 age=7
+引用 $age
+删除 unset var
+输入 read var
+列出变量 set
+全局化 export var
+
+echo $age
+echo $HOME
+echo $TZ
+ls > $name.$age
+
+
+
